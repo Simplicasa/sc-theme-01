@@ -1,14 +1,14 @@
 Liquid Glass:
   modes:
     light:
-      background-image: "center / cover no-repeat fixed url('https://xxxxx')"
+      background-image: "center / cover no-repeat fixed url('https://raw.githubusercontent.com/Simplicasa/sc-theme-01/e8bf1c213d127261e894acd13e855112d33e36ef/images/fondo_01.webp')"
       primary-background-color: rgb(76, 80, 84)
       secondary-background-color: rgb(76, 80, 84)
       app-header-background-color: rgba(76, 80, 84, 0.3)
       ha-card-background: rgba(150, 150, 150, 0.3)
       app-theme-color: rgb(91, 138, 168) 
     dark:
-      background-image: "center / cover no-repeat fixed url('https://xxxxxx')"
+      background-image: "center / cover no-repeat fixed url('https://raw.githubusercontent.com/Simplicasa/sc-theme-01/e8bf1c213d127261e894acd13e855112d33e36ef/images/fondo_01.webp')"
       primary-background-color: rgb(18, 11, 25)
       secondary-background-color: rgb(18, 11, 25)
       app-header-background-color: rgba(18, 11, 25, 0.3)
