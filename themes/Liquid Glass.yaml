@@ -1,4 +1,4 @@
-Liquid Glass:
+simplicasa-theme:
   modes:
     light:
       background-image: "center / cover no-repeat fixed url('https://raw.githubusercontent.com/Simplicasa/sc-theme-01/e8bf1c213d127261e894acd13e855112d33e36ef/images/fondo_01.webp')"
@@ -134,7 +134,7 @@ Liquid Glass:
   codemirror-property: var(--accent-color)
   md-list-container-color: none 
 
-  card-mod-theme: "Liquid Glass"
+  card-mod-theme: "simplicasa-theme"
   card-mod-card-yaml: |
     .: |
       ha-card {
