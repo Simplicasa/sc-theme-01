@@ -1,1 +1,4 @@
-# sc-theme-01
+# SimpliCasa theme
+
+Tema de SimpliCasa
+
